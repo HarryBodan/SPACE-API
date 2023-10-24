@@ -1,5 +1,5 @@
-## Documentación Oficial de API
-[Ver la documentación en Postman](https://documenter.getpostman.com/view/30336196/2s9YRCYBst)
+## Official API Documentation
+[Check the official documentation on POSTMAN](https://documenter.getpostman.com/view/30336196/2s9YRCYBst)
 
 **License**
 ```
